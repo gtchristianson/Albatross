@@ -1,0 +1,229 @@
+fileFormatVersion: 2
+guid: 2342663d75bd6fd429e3b925d215b0b3
+timeCreated: 1447798963
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Top1
+    21300002: Top2
+    21300004: Top3
+    21300006: Mid_Tubes_Brown
+    21300008: Mid_keyboard_Brown
+    21300010: Mid_Door_Brown
+    21300012: Mid_simple_Brown
+    21300014: Bot1
+    21300016: Bot2
+    21300018: Bot3A
+    21300020: Bot3B
+    21300022: Door_Left
+    21300024: Door_Right
+    21300026: Blood1
+    21300028: Blood2
+    21300030: Door_GreenLight
+    21300032: Door_GreenLight_Glow
+    21300034: Door_RedLight_Glow
+    21300036: Light_Yellow
+    21300038: Light_BlueTop
+    21300040: Light_Blue_Screen
+    21300042: Light_Blue_Small
+    21300044: Luz_teclado
+    21300046: FlyingRobot_Light
+    21300048: FlyingRobot_Top
+    21300050: FlyingRobot_Bot
+    21300052: FlyingRobot_laser
+    21300054: FlyingRobot_circle
+    21300056: Robot_top
+    21300058: Robot_mid
+    21300060: Robot_laser
+    21300062: Robot_Bot
+    21300064: Robot_Light
+    21300066: Alien
+    21300068: MedKit
+    21300070: Box
+    21300072: Bot3C
+    21300074: FlyingRobotMid
+    21300076: Robot_lightbar
+    21300078: Sign
+    21300080: Section4
+    21300082: Section3
+    21300084: Section2
+    21300086: Section1
+    21300088: Wires
+    21300090: Window
+    21300092: Mid_keyboard_Red
+    21300094: Mid_Tubes_Red
+    21300096: Mid_Door_Red
+    21300098: Mid_simple_Red
+    21300100: Mid_keyboard_Grey
+    21300102: Mid_Tubes_Grey
+    21300104: Mid_Door_Grey
+    21300106: Mid_simple_Grey
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Mid_Tubes_Brown
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 96
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mid_keyboard_Brown
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 96
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mid_Door_Brown
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 96
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mid_simple_Brown
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 240
+        width: 96
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mid_keyboard_Red
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 96
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mid_Tubes_Red
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 120
+        width: 96
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mid_Door_Red
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 120
+        width: 96
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mid_simple_Red
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 120
+        width: 96
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mid_keyboard_Grey
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mid_Tubes_Grey
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mid_Door_Grey
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mid_simple_Grey
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
