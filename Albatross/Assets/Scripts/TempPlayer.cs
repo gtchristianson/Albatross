@@ -10,7 +10,7 @@ public class TempPlayer : MonoBehaviour {
     float groundCheckRadius = 0.05f;
     public LayerMask groundLayer;
     public Transform groundCheck;
-    public float jumpHeight; 
+    public float jumpForce; 
 
 
     Rigidbody2D myRB;
@@ -34,7 +34,7 @@ public class TempPlayer : MonoBehaviour {
             grounded = false;
             myAnim.SetBool("isGrounded", grounded);
             //jumpforce
-            myRB.AddForce(new Vector2(0, jumpHeight));
+            myRB.AddForce(new Vector2(0, jumpForce));
         }
     }
 	

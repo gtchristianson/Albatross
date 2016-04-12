@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/MainMenu.unity
+- path: C:/Users/grant/Documents/GitHub/Albatross/Albatross/Assets/First Scene.unity
   isLoaded: 1
   isActive: 1
